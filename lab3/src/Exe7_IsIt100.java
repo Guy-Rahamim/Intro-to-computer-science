@@ -1,5 +1,9 @@
+//Dalya Wiliam & Guy Rahamim
+//Assignment7
+
 import java.util.Scanner;
-public class Exe7_IsIt100 {
+public class Exe7_IsIt100
+{
 	public static void main(String[] args)
 	{
 		//initializing variables.
@@ -13,7 +17,7 @@ public class Exe7_IsIt100 {
 		num2=input.nextInt();
 		
 		//checks if the sum is bigger than 100.
-		//if it is bigger, keep sum. if not, keep difference from 100.
+		//if it is, keep sum. if not, keep difference of sum from 100.
 		//print result.
 		answer= (num1+num2)>100 ? (num1+num2) : 100-(num1+num2);
 		System.out.println(answer);

@@ -1,3 +1,6 @@
+//Dalya Wiliam & Guy Rahamim
+//Assignment4
+
 import java.util.Scanner;
 public class Exe4_WhichIsBigger
 {
@@ -17,7 +20,7 @@ public class Exe4_WhichIsBigger
 		
 			//comparing num1 and num2, storing the biggest and printing the result.
 			max = num1>num2 ? num1:num2;
-			System.out.print("The bigger number is: " + max);
+			System.out.println("The bigger number is: " + max);
 		
 			input.close();
 		

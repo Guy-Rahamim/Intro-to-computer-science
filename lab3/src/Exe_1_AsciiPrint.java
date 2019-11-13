@@ -1,7 +1,9 @@
 //Dalya William & Guy Rahamim
-public class Exe_1_AsciiPrint {
-
-	public static void main(String[] args) {
+//Assignment 1
+public class Exe_1_AsciiPrint
+{
+	public static void main(String[] args)
+	{
 		//initializing variables.
 		char letterA=65,
 			 letterJ=74,
@@ -12,4 +14,3 @@ public class Exe_1_AsciiPrint {
 	}
 
 }
-///comment

@@ -1,3 +1,6 @@
+//Dalya Wiliam & Guy Rahamim
+//Assignment9
+
 import java.util.Scanner;
 public class Exe9_DividingTheFloats
 {
@@ -20,6 +23,7 @@ public class Exe9_DividingTheFloats
 			//printing the remainder of the devision, and the quotient.
 			System.out.println(biggest + " has a remainder of " + biggest%smallest + " when divided by " + smallest);
 			System.out.println(biggest + "\\" + smallest + "=" + biggest/smallest );
+		
 			input.close();
 		}
 }
